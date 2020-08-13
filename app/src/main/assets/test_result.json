@@ -1,0 +1,1 @@
+{"N_threads":{"threads":4,"testers":[{"name":"test_OS_malloc","times":[12,56,451,3428]},{"name":"test_fastmempool","times":[7,21,111,1477]}]}, "1_threads":{"threads":1,"testers":[{"name":"test_OS_malloc","times":[2,17,151,1234]},{"name":"test_fastmempool","times":[1,6,52,730]},{"name":"test_mempool","times":[0,2,9,86]}]}}

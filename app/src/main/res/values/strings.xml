@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFastMemPool</string>
+    <string name="str_server_online">Test service online</string>
+    <string name="foreground_service_started">Foreground service started</string>
+    <string name="fsrv_text1">Service will stop self after test done</string>
+    <string name="str_threads_cnt">Threads count:</string>
+</resources>
